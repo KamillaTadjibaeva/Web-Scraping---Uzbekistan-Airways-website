@@ -1,0 +1,147 @@
+Type,Flight,City,Date,Scheduled,Estimated,Aircraft,Fare Classes,Gate,Status
+International Departures,427,MUMBAI,11.05.2026,23:20,23:20,32N,"Y39,Y40",B6,Delayed
+International Departures,505,BEIJING,11.05.2026,23:30,23:30,789,"Y32,Y33",B2,Delayed
+International Departures,281,ISTANBUL (Istanbul International Airport),12.05.2026,01:10,01:10,320,"Y29,Y30,Y31",B9,On schedule
+International Departures,421,DELHI,12.05.2026,01:25,01:25,763,"Y35,Y36,Y37",B11,On schedule
+International Departures,465,ISLAMABAD,12.05.2026,03:40,03:40,32N,,B9,On schedule
+International Departures,9613,MOSCOW (Vnukovo),12.05.2026,05:40,05:40,32A,,B8,On schedule
+International Departures,611,MOSCOW (Vnukovo),12.05.2026,06:30,06:30,32Q,,B9,On schedule
+International Departures,101,NEW-YORK (JFK International Airport),12.05.2026,06:45,06:45,787,,B5,On schedule
+International Departures,685,SOCHI,12.05.2026,07:05,07:05,32N,,B8,On schedule
+International Departures,9657,UFA,12.05.2026,07:30,07:30,32A,,,On schedule
+International Departures,271,ISTANBUL (Istanbul International Airport),12.05.2026,07:40,07:40,763,,,On schedule
+International Departures,717,DUSHANBE,12.05.2026,08:00,08:00,32N,,,On schedule
+International Departures,745,TBILISI,12.05.2026,08:05,08:05,320,,,On schedule
+International Departures,603,MOSCOW (Domodedovo),12.05.2026,08:05,08:05,767,,,On schedule
+International Departures,761,ALMATY,12.05.2026,08:15,08:15,320,,,On schedule
+International Departures,633,ST. PETERSBURG,12.05.2026,08:30,08:30,763,,,On schedule
+International Departures,9701,GROZNY,12.05.2026,08:50,08:50,32N,,,On schedule
+International Departures,201,LONDON (Heathrow),12.05.2026,11:10,11:10,788,,,On schedule
+International Departures,649,KAZAN,12.05.2026,12:05,12:05,32N,,,On schedule
+International Departures,251,PARIS,12.05.2026,13:55,13:55,32Q,,,On schedule
+International Departures,303,TEL AVIV,12.05.2026,15:15,15:15,320,,,On schedule
+International Departures,777,BISHKEK,12.05.2026,15:20,15:20,32N,,,On schedule
+International Departures,755,BAKU,12.05.2026,15:50,15:50,320,,,On schedule
+International Departures,273,ISTANBUL (Istanbul International Airport),12.05.2026,16:50,16:50,789,,,On schedule
+International Departures,507,URUMQI,12.05.2026,17:15,17:15,320,,,On schedule
+International Departures,613,MOSCOW (Vnukovo),12.05.2026,17:45,17:45,32Q,,,On schedule
+International Departures,9661,EKATERINBURG,12.05.2026,18:00,18:00,32A,,,On schedule
+International Departures,9671,NIZHNIY NOVGOROD,12.05.2026,18:10,18:10,32N,,,On schedule
+International Departures,721,ASTANA,12.05.2026,19:00,19:00,320,,,On schedule
+International Departures,601,MOSCOW (Domodedovo),12.05.2026,19:20,19:20,763,,,On schedule
+International Departures,765,ALMATY,12.05.2026,20:40,20:40,32N,,,On schedule
+International Departures,511,SEOUL,12.05.2026,22:25,22:25,788,,,On schedule
+International Departures,535,PHUKET,13.05.2026,01:05,01:05,32Q,,,On schedule
+International Departures,281,ISTANBUL (Istanbul International Airport),13.05.2026,01:10,01:10,32N,,,On schedule
+International Departures,333,DUBAI,13.05.2026,07:15,07:15,788,,,On schedule
+International Departures,271,ISTANBUL (Istanbul International Airport),13.05.2026,07:40,07:40,763,,,On schedule
+International Departures,461,LAHORE,13.05.2026,07:40,07:40,32N,,,On schedule
+International Departures,717,DUSHANBE,13.05.2026,08:00,08:00,32N,,,On schedule
+International Departures,603,MOSCOW (Domodedovo),13.05.2026,08:05,08:05,763,,,On schedule
+International Departures,761,ALMATY,13.05.2026,08:15,08:15,320,,,On schedule
+International Departures,633,ST. PETERSBURG,13.05.2026,08:30,08:30,32Q,,,On schedule
+International Departures,211,RIGA,13.05.2026,08:35,08:35,763,,,On schedule
+International Departures,423,DELHI,13.05.2026,08:45,08:45,763,,,On schedule
+International Departures,341,SHARM EL SHEIKH INTL,13.05.2026,09:15,09:15,32Q,,,On schedule
+International Departures,533,BANGKOK,13.05.2026,13:20,13:20,763,,,On schedule
+International Departures,255,MILAN,13.05.2026,15:10,15:10,788,,,On schedule
+International Departures,777,BISHKEK,13.05.2026,15:20,15:20,320,,,On schedule
+International Departures,273,ISTANBUL (Istanbul International Airport),13.05.2026,16:50,16:50,787,,,On schedule
+International Departures,507,URUMQI,13.05.2026,17:40,17:40,320,,,On schedule
+International Departures,613,MOSCOW (Vnukovo),13.05.2026,17:45,17:45,32Q,,,On schedule
+International Departures,9683,KRASNOYARSK,13.05.2026,18:00,18:00,32N,,,On schedule
+International Departures,631,ST. PETERSBURG,13.05.2026,18:40,18:40,32Q,,,On schedule
+International Departures,721,ASTANA,13.05.2026,19:00,19:00,32N,,,On schedule
+International Departures,645,MINERALNYE VODY,13.05.2026,19:00,19:00,32N,,,On schedule
+International Departures,601,MOSCOW (Domodedovo),13.05.2026,19:20,19:20,763,,,On schedule
+International Departures,667,NOVOSIBIRSK,13.05.2026,20:00,20:00,32N,,,On schedule
+International Departures,765,ALMATY,13.05.2026,20:40,20:40,32N,,,On schedule
+International Departures,513,SEOUL,13.05.2026,22:40,22:40,787,,,On schedule
+International Departures,553,KUALA LUMPUR,13.05.2026,23:40,23:40,788,,,On schedule
+International Arrivals,722,ASTANA,12.05.2026,00:00,00:00,320,,01,Arrived
+International Arrivals,766,ALMATY,12.05.2026,00:50,00:50,320,,,On schedule
+International Arrivals,9614,MOSCOW (Vnukovo),12.05.2026,02:30,02:30,32A,,,On schedule
+International Arrivals,614,MOSCOW (Vnukovo),12.05.2026,03:30,03:30,767,,,On schedule
+International Arrivals,668,NOVOSIBIRSK,12.05.2026,03:30,03:30,32N,,,On schedule
+International Arrivals,274,ISTANBUL (Istanbul International Airport),12.05.2026,04:10,04:10,763,,,On schedule
+International Arrivals,602,MOSCOW (Domodedovo),12.05.2026,04:45,04:45,763,,,On schedule
+International Arrivals,256,URGENCH,12.05.2026,08:00,08:00,788,,,On schedule
+International Arrivals,466,ISLAMABAD,12.05.2026,08:40,08:40,32N,,,On schedule
+International Arrivals,422,DELHI,12.05.2026,09:05,09:05,763,,,On schedule
+International Arrivals,428,MUMBAI,12.05.2026,09:10,09:10,32N,,,On schedule
+International Arrivals,718,DUSHANBE,12.05.2026,11:30,11:30,32N,,,On schedule
+International Arrivals,510,SANYA,12.05.2026,12:20,12:20,32Q,,,On schedule
+International Arrivals,762,ALMATY,12.05.2026,12:25,12:25,320,,,On schedule
+International Arrivals,282,ISTANBUL (Istanbul International Airport),12.05.2026,12:30,12:30,320,,,On schedule
+International Arrivals,506,BEIJING,12.05.2026,12:50,12:50,789,,,On schedule
+International Arrivals,512,SEOUL,12.05.2026,13:20,13:20,788,,,On schedule
+International Arrivals,532,BANGKOK,12.05.2026,13:35,13:35,763,,,On schedule
+International Arrivals,9658,UFA,12.05.2026,15:15,15:15,32A,,,On schedule
+International Arrivals,746,TBILISI,12.05.2026,15:55,15:55,320,,,On schedule
+International Arrivals,686,SOCHI,12.05.2026,15:55,15:55,32N,,,On schedule
+International Arrivals,9702,GROZNY,12.05.2026,16:10,16:10,32N,,,On schedule
+International Arrivals,528,TOKYO,12.05.2026,16:10,16:10,789,,,On schedule
+International Arrivals,612,MOSCOW (Vnukovo),12.05.2026,16:15,16:15,32Q,,,On schedule
+International Arrivals,604,MOSCOW (Domodedovo),12.05.2026,17:30,17:30,767,,,On schedule
+International Arrivals,272,ISTANBUL (Istanbul International Airport),12.05.2026,19:00,19:00,763,,,On schedule
+International Arrivals,778,BISHKEK,12.05.2026,19:10,19:10,32N,,,On schedule
+International Arrivals,634,ST. PETERSBURG,12.05.2026,20:00,20:00,763,,,On schedule
+International Arrivals,650,KAZAN,12.05.2026,20:15,20:15,32N,,,On schedule
+International Arrivals,756,BAKU,12.05.2026,22:15,22:15,320,,,On schedule
+International Arrivals,722,ASTANA,13.05.2026,00:00,00:00,320,,,On schedule
+International Arrivals,508,URUMQI,13.05.2026,00:05,00:05,320,,,On schedule
+International Arrivals,766,ALMATY,13.05.2026,00:50,00:50,32N,,,On schedule
+International Arrivals,9662,EKATERINBURG,13.05.2026,01:30,01:30,32A,,,On schedule
+International Arrivals,9672,NIZHNIY NOVGOROD,13.05.2026,03:10,03:10,32N,,,On schedule
+International Arrivals,202,LONDON (Heathrow),13.05.2026,03:10,03:10,788,,,On schedule
+International Arrivals,614,MOSCOW (Vnukovo),13.05.2026,03:30,03:30,32Q,,,On schedule
+International Arrivals,274,ISTANBUL (Istanbul International Airport),13.05.2026,04:10,04:10,789,,,On schedule
+International Arrivals,602,MOSCOW (Domodedovo),13.05.2026,04:45,04:45,763,,,On schedule
+International Arrivals,304,SAMARKAND,13.05.2026,04:50,04:50,320,,,On schedule
+International Arrivals,252,PARIS,13.05.2026,05:35,05:35,32Q,,,On schedule
+International Arrivals,102,NEW-YORK (JFK International Airport),13.05.2026,09:55,09:55,787,,,On schedule
+International Arrivals,718,DUSHANBE,13.05.2026,11:30,11:30,32N,,,On schedule
+International Arrivals,762,ALMATY,13.05.2026,12:25,12:25,320,,,On schedule
+International Arrivals,282,ISTANBUL (Istanbul International Airport),13.05.2026,12:30,12:30,32N,,,On schedule
+International Arrivals,512,SEOUL,13.05.2026,13:20,13:20,788,,,On schedule
+International Arrivals,462,LAHORE,13.05.2026,13:25,13:25,32N,,,On schedule
+International Arrivals,536,PHUKET,13.05.2026,15:20,15:20,32Q,,,On schedule
+International Arrivals,424,DELHI,13.05.2026,16:15,16:15,763,,,On schedule
+International Arrivals,604,MOSCOW (Domodedovo),13.05.2026,17:30,17:30,763,,,On schedule
+International Arrivals,334,DUBAI,13.05.2026,17:30,17:30,788,,,On schedule
+International Arrivals,272,ISTANBUL (Istanbul International Airport),13.05.2026,19:00,19:00,763,,,On schedule
+International Arrivals,778,BISHKEK,13.05.2026,19:10,19:10,320,,,On schedule
+International Arrivals,634,ST. PETERSBURG,13.05.2026,20:00,20:00,32Q,,,On schedule
+International Arrivals,342,SHARM EL SHEIKH INTL,13.05.2026,21:45,21:45,32Q,,,On schedule
+International Arrivals,212,RIGA,13.05.2026,22:30,22:30,763,,,On schedule
+International Arrivals,722,ASTANA,14.05.2026,00:00,00:00,32N,,,On schedule
+Local Departures,53,URGENCH,12.05.2026,06:40,06:40,32N,"Y4.,Y5.,Y6.",4,On schedule
+Local Departures,51,URGENCH,12.05.2026,07:30,07:30,320,"Y1.,Y2.,Y3.",3,On schedule
+Local Departures,91,NAMANGAN,12.05.2026,10:30,10:30,32N,"Y4.,Y5.,Y6.",2,On schedule
+Local Departures,11,NUKUS,12.05.2026,10:30,10:30,763,"Y1.,Y2.,Y3.",4,On schedule
+Local Departures,83,FERGANA,12.05.2026,13:00,13:00,32N,,,On schedule
+Local Departures,55,URGENCH,12.05.2026,13:45,13:45,320,,,On schedule
+Local Departures,17,NUKUS,12.05.2026,20:00,20:00,32N,,,On schedule
+Local Departures,51,URGENCH,13.05.2026,06:50,06:50,320,,,On schedule
+Local Departures,15,NUKUS,13.05.2026,07:15,07:15,32A,,,On schedule
+Local Departures,85,FERGANA,13.05.2026,07:40,07:40,32N,,,On schedule
+Local Departures,43,SAMARKAND,13.05.2026,10:45,10:45,320,,,On schedule
+Local Departures,55,URGENCH,13.05.2026,13:45,13:45,320,,,On schedule
+Local Departures,17,NUKUS,13.05.2026,20:00,20:00,32A,,,On schedule
+Local Departures,57,URGENCH,13.05.2026,20:40,20:40,320,,,On schedule
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,
+Local Arrivals,,,,,,,,,

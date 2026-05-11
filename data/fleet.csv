@@ -1,0 +1,8 @@
+Aircraft,Economy Seats,Business Seats,Length (m),Wingspan (m),Cruising Speed (km/h),Range (km),Passenger Capacity
+Boeing 787-8,246,24,56.7,60.1,930,12700,270
+Boeing 787-8,222,24,56.7,60.1,930,12700,246
+Boeing 767-300ER,232,15,54.9,47.6,800,9000,247
+A320-214,138,12,37.6,34.1,850,3800,150
+Airbus A 321-200NX,172,16,44.5,34.1 – 35.8,840,7400,188
+Airbus A 330-200,248,18,58.37,60.3,930,12000,266
+Pilatus PC-24,,,8,17,815,3300,6-8

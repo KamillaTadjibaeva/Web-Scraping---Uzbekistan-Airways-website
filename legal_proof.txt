@@ -1,0 +1,17 @@
+Is it legal to scrape?
+Yes, scraping the public pages of uzairways.com for this academic project appears to be allowed, based
+on the following evidence:
+
+robots.txt: The file only disallows access to backend and administrative paths such as /admin/, /user/,
+and /node/add/. All pages I plan to scrape — including /en/schedule, /en/our-fleet,
+/en/press-center/news, and /en/representative-oﬃces — fall outside these restrictions and hence
+permitted for access.
+
+Terms of Use: uzairways.com does not appear to have any Terms of Use or Terms of Service. This means
+Uzbekistan Airways has not published any contractual terms that would prohibit scraping.
+Copyright notice: The only relevant statement on the site is the footer notice: "At a reprint the active link
+to the publication is required." Which means that as long as I link back to the source - I can use this site
+data.
+
+Uzbekistan site scraping policies are not very well defined as for example in EU which makes it a good
+basis for my solely academic purposes.
