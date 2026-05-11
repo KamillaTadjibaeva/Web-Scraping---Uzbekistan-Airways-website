@@ -1,5 +1,4 @@
 Name: Kamilla Tadjibaeva
-Student ID: 488381
 
 FILES
 
